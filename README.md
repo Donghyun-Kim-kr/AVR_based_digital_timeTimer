@@ -9,7 +9,7 @@ AVR (Atmega128a) based digital timeTimer style firmware &amp; device
 - 8 button switch for External Interrupts
 
 ## TOdo
-- [ x ] Specifications
-- [ x ] Block Diagram
-- [ x ] code
+- [x] Specifications
+- [x] Block Diagram
+- [x] code
  
