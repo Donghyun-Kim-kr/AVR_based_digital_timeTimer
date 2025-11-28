@@ -1,7 +1,6 @@
 # AVR_based_digital_timeTimer
 AVR (Atmega128a) based digital timeTimer style firmware &amp; device
 
-![image](https://github.com/user-attachments/assets/bad9397e-5d53-45f3-b06a-d81897df847c)
 <img src = "https://github.com/user-attachments/assets/bad9397e-5d53-45f3-b06a-d81897df847c" width = "60%" height 60%>
 
 ## Requirements 
