@@ -190,7 +190,6 @@ void Initialize_PWM(void) {
 void initialize_adc(void) {
 	ADCSRA = 0x00;
 	ADMUX = 0x00;   // ADC0
-	ACSR = 0x80;
 	ADCSRA = 0x87;  // ADC activate, prescaler 128
 }
 
